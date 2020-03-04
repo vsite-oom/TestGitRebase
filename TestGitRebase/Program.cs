@@ -23,8 +23,7 @@ namespace TestGitRebase
 
         static void SenadMandzic()
         {
-            Console.WriteLine("Course title: OOM");
-            Console.WriteLine("My Name is Senad Mandzic.");
+            Console.WriteLine("My name is Senad Mandzic");
         }
     }
 }

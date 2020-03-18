@@ -13,6 +13,7 @@ namespace TestGitRebase
             Nastavnik();
             SaraCuzelePapata();
             AuroMazzi();
+            Marko();
 
 
             Console.ReadKey(false);
@@ -38,9 +39,5 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Auro Mazzi.");
         }
-
-
     }
-
-    
 }

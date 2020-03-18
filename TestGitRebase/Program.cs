@@ -6,18 +6,22 @@ using System.Threading.Tasks;
 
 namespace TestGitRebase
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Nastavnik();
+	static void Main(string[] args)
+	{
+		Nastavnik();
+		Marko();
 
-            Console.ReadKey(false);
-        }
+		Console.ReadKey(false);
+	}
+	static void Nastavnik()
+	{
+		Console.WriteLine("Course title: OOM");
+	}
 
-        static void Nastavnik()
-        {
-            Console.WriteLine("Course title: OOM");
-        }
-    }
+	static void Marko()
+	{
+		Console.WriteLine("Course title: OOM");
+		Console.WriteLine("My Name is Marko.");
+	}
+
 }

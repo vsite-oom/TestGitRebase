@@ -18,6 +18,7 @@ namespace TestGitRebase
             FranKalinger();
             IvanBatinic();
             IvanZoric();
+            DomagojSalkic();
 
 
             Console.ReadKey(false);
@@ -61,6 +62,12 @@ namespace TestGitRebase
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Ivan Zorić.");
+        }
+
+        static void DomagojSalkic()
+        {
+            System.Console.WriteLine("Courese title: OOM");
+            Console.WriteLine("My Name is Domagoj Salkić.");
         }
     }
 }

@@ -11,6 +11,7 @@ namespace TestGitRebase
         static void Main(string[] args)
         {
             Nastavnik();
+            Marko();
             FranKalinger();
 
             Console.ReadKey(false);
@@ -24,6 +25,11 @@ namespace TestGitRebase
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Fran Kalinger.");
+        }
+        static void Marko()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Marko.");
         }
     }
 }

@@ -11,6 +11,7 @@ namespace TestGitRebase
         static void Main(string[] args)
         {
             Nastavnik();
+            AuroMazzi();
             Marko();
             FranKalinger();
 
@@ -21,15 +22,25 @@ namespace TestGitRebase
         {
             Console.WriteLine("Course title: OOM");
         }
-        static void FranKalinger()
+
+        static void AuroMazzi()
         {
             Console.WriteLine("Course title: OOM");
-            Console.WriteLine("My Name is Fran Kalinger.");
+            Console.WriteLine("My Name is Auro Mazzi.");
         }
+
         static void Marko()
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Marko.");
         }
+        static void FranKalinger()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Fran Kalinger.");
+        }
+
     }
+
+    
 }

@@ -11,13 +11,20 @@ namespace TestGitRebase
         static void Main(string[] args)
         {
             Nastavnik();
+            IvanZoric();
 
             Console.ReadKey(false);
         }
-
+        static void IvanZoric()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Ivan Zorić.");
+        }
         static void Nastavnik()
         {
             Console.WriteLine("Course title: OOM");
         }
+
+
     }
 }

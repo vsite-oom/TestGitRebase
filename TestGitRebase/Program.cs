@@ -12,7 +12,13 @@ namespace TestGitRebase
         {
             DanijelKrpes();
             Nastavnik();
+            SaraCuzelePapata();
+            AuroMazzi();
             Marko();
+            FranKalinger();
+            IvanBatinic();
+            IvanZoric();
+
 
             Console.ReadKey(false);
         }
@@ -20,6 +26,11 @@ namespace TestGitRebase
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Danijel Krpes.");
+        }
+        static void SaraCuzelePapata()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Sara Ćuzele Papata.");
         }
         static void Marko()
         {
@@ -29,6 +40,27 @@ namespace TestGitRebase
         static void Nastavnik()
         {
             Console.WriteLine("Course title: OOM");
+        }
+        static void FranKalinger()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Fran Kalinger.");
+        }
+
+        static void AuroMazzi()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Auro Mazzi.");
+        }
+        static void IvanBatinic()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Ivan Batinic.");
+        }
+        static void IvanZoric()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Ivan Zorić.");
         }
     }
 }

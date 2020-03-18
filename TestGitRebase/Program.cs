@@ -15,6 +15,7 @@ namespace TestGitRebase
 
             Console.ReadKey(false);
         }
+
         static void Nastavnik()
         {
             Console.WriteLine("Course title: OOM");

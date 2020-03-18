@@ -10,7 +10,7 @@ namespace TestGitRebase
     {
         static void Main(string[] args)
         {
-            Nastavnk();
+            Nastavnik();
             IvanMihin();
             Console.ReadKey(false);
         }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestGitRebase
 {
-	static void Main(string[] args)
+	static void Main(string[] args) 
 	{
 		Nastavnik();
 		Marko();

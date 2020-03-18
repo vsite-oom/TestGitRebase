@@ -10,23 +10,25 @@ namespace TestGitRebase
     {
         static void Main(string[] args)
         {
-            Nastavnik();
             DanijelKrpes();
+            Nastavnik();
+            Marko();
 
             Console.ReadKey(false);
         }
-
-        static void Nastavnik()
-        {
-            Console.WriteLine("Course title: OOM");
-        }
-
         static void DanijelKrpes()
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Danijel Krpes.");
         }
-
-        
+        static void Marko()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Marko.");
+        }
+        static void Nastavnik()
+        {
+            Console.WriteLine("Course title: OOM");
+        }
     }
 }

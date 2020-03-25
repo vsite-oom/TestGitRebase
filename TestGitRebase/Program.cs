@@ -33,6 +33,7 @@ namespace TestGitRebase
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Sara Ćuzele Papata.");
+            Console.WriteLine("I like chocolate.");
         }
         static void Marko()
         {

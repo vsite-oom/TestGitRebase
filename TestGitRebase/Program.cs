@@ -38,11 +38,13 @@ namespace TestGitRebase
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Marko.");
-        }
+			Console.WriteLine("I like pizza.");
+		}
         static void Nastavnik()
         {
             Console.WriteLine("Course title: OOM");
-        }
+			Console.WriteLine("My Name is Julijan");
+		}
         static void FranKalinger()
         {
             Console.WriteLine("Course title: OOM");

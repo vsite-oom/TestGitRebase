@@ -29,6 +29,9 @@ namespace TestGitRebase
             DarijBaldasari();
             MarioBilic();
             
+            DonaPejnovic();
+
+
             Console.ReadKey(false);
 
             
@@ -144,5 +147,12 @@ namespace TestGitRebase
             Console.WriteLine("I like sir");
         }
 
+       
+        static void DonaPejnovic()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Dona Pejnovic.");
+            Console.WriteLine("I like ramen");
+        }
     }
 }

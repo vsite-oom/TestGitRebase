@@ -28,6 +28,7 @@ namespace TestGitRebase
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Danijel Krpes.");
+            Console.WriteLine("My jello is still shaking from the earthquake.");
         }
         static void SaraCuzelePapata()
         {

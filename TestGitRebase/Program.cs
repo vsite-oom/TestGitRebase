@@ -25,6 +25,8 @@ namespace TestGitRebase
             MatejaVukic();
             EmilOrdanic();
 
+            MarioBilic();
+            
             Console.ReadKey(false);
         }
         static void DanijelKrpes()
@@ -109,6 +111,12 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Emil Ordanic.");
             Console.WriteLine("I like Corona");
+        }
+        static void MarioBilic()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Mario Bilić.");
+            Console.WriteLine("I like food");
         }
     }
 }

@@ -25,10 +25,13 @@ namespace TestGitRebase
             MatejaVukic();
             EmilOrdanic();
             SenadMandzic();
+            BornaBrisar();
 
             MarioBilic();
             
             Console.ReadKey(false);
+
+            
         }
         static void DanijelKrpes()
         {
@@ -126,6 +129,12 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Senad Mandzic.");
             Console.WriteLine("I like chocolate");
+        }
+        static void BornaBrisar()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("Aj lajk chai");
+            Console.WriteLine("My Name is Borna Brisar.");
         }
     }
 }

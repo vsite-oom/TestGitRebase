@@ -101,11 +101,5 @@ namespace TestGitRebase
             Console.WriteLine("My Name is Paola Kolar.");
             Console.WriteLine("I like Cheesecake");
         }
-
-        static void DomagojSalkic()
-        {
-            System.Console.WriteLine("Courese title: OOM");
-            Console.WriteLine("My Name is Domagoj Salkić.");
-        }
     }
 }

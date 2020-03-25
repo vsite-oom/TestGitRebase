@@ -21,7 +21,6 @@ namespace TestGitRebase
             DomagojSalkic();
             IvanBlazeka();
 
-
             Console.ReadKey(false);
         }
         static void DanijelKrpes()

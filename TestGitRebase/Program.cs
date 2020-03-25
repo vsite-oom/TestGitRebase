@@ -24,6 +24,7 @@ namespace TestGitRebase
             PaolaKolar();
             MatejaVukic();
             EmilOrdanic();
+            SenadMandzic();
 
             MarioBilic();
             
@@ -117,6 +118,13 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Mario Bilić.");
             Console.WriteLine("I like food");
+        }
+
+        static void SenadMandzic()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Senad Mandzic.");
+            Console.WriteLine("I like chocolate");
         }
     }
 }

@@ -20,7 +20,7 @@ namespace TestGitRebase
             IvanZoric();
             DomagojSalkic();
             IvanBlazeka();
-
+            MatejaVukic();
 
             Console.ReadKey(false);
         }
@@ -75,6 +75,13 @@ namespace TestGitRebase
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Ivan Blažeka.");
+        }
+
+        static void MatejaVukic()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Mateja Vukic.");
+            Console.WriteLine("I like cabbage.");
         }
     }
 }

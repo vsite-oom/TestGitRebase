@@ -42,6 +42,7 @@ namespace TestGitRebase
         static void Nastavnik()
         {
             Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My name is Julijan");
         }
         static void FranKalinger()
         {

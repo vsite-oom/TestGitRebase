@@ -20,6 +20,8 @@ namespace TestGitRebase
             IvanZoric();
             DomagojSalkic();
             IvanBlazeka();
+           
+
             JulijanSribar();
             PaolaKolar();
             MatejaVukic();
@@ -147,6 +149,8 @@ namespace TestGitRebase
             Console.WriteLine("I like sir");
         }
 
+       
+       
        
         static void DonaPejnovic()
         {

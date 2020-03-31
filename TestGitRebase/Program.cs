@@ -10,60 +10,34 @@ namespace TestGitRebase
     {
         static void Main(string[] args)
         {
-            DanijelKrpes();
             Nastavnik();
-            SaraCuzelePapata();
+
             AuroMazzi();
-            Marko();
+            BornaBrisar();
+            DanijelKrpes();
+            DarijBaldasari();
+            DomagojSalkic();
+            DonaPejnovic();
+            EmilOrdanic();
             FranKalinger();
             IvanBatinic();
-            IvanZoric();
-            DomagojSalkic();
             IvanBlazeka();
-           
-
+            IvanZoric();
             JulijanSribar();
-            PaolaKolar();
-            MatejaVukic();
-            EmilOrdanic();
-            SenadMandzic();
-            BornaBrisar();
-            DarijBaldasari();
             MarioBilic();
-            
-            DonaPejnovic();
-
+            MarkoVitkovic();
+            MatejaVukic();
+            PaolaKolar();
+            SaraCuzelePapata();
+            SenadMandzic();
 
             Console.ReadKey(false);
+        }
 
-            
-        }
-        static void DanijelKrpes()
-        {
-            Console.WriteLine("Course title: OOM");
-            Console.WriteLine("My Name is Danijel Krpes.");
-            Console.WriteLine("My jello is still shaking from the earthquake.");
-        }
-        static void SaraCuzelePapata()
-        {
-            Console.WriteLine("Course title: OOM");
-            Console.WriteLine("My Name is Sara Ćuzele Papata.");
-            Console.WriteLine("I like chocolate.");
-        }
-        static void Marko()
-        {
-            Console.WriteLine("Course title: OOM");
-            Console.WriteLine("My Name is Marko.");
-        }
         static void Nastavnik()
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My name is Julijan");
-        }
-        static void FranKalinger()
-        {
-            Console.WriteLine("Course title: OOM");
-            Console.WriteLine("My Name is Fran Kalinger.");
         }
 
         static void AuroMazzi()
@@ -72,16 +46,26 @@ namespace TestGitRebase
             Console.WriteLine("My Name is Auro Mazzi.");
             Console.WriteLine("I like the song 'I got it from Agnes' by Tom Lehrer!");
         }
-        static void IvanBatinic()
+
+        static void BornaBrisar()
         {
             Console.WriteLine("Course title: OOM");
-            Console.WriteLine("My Name is Ivan Batinic.");
-            Console.WriteLine("I like pauza.");
+            Console.WriteLine("Aj lajk chai");
+            Console.WriteLine("My Name is Borna Brisar.");
         }
-        static void IvanZoric()
+
+        static void DanijelKrpes()
         {
             Console.WriteLine("Course title: OOM");
-            Console.WriteLine("My Name is Ivan Zorić.");
+            Console.WriteLine("My Name is Danijel Krpes.");
+            Console.WriteLine("My jello is still shaking from the earthquake.");
+        }
+
+        static void DarijBaldasari()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Darij Baldasari.");
+            Console.WriteLine("I like sir");
         }
 
         static void DomagojSalkic()
@@ -90,6 +74,34 @@ namespace TestGitRebase
             Console.WriteLine("My Name is Domagoj Salkić.");
             Console.WriteLine("I like chocolate.");
         }
+
+        static void DonaPejnovic()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Dona Pejnovic.");
+            Console.WriteLine("I like ramen");
+        }
+
+        static void EmilOrdanic()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Emil Ordanic.");
+            Console.WriteLine("I like Corona");
+        }
+
+        static void FranKalinger()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Fran Kalinger.");
+        }
+
+        static void IvanBatinic()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Ivan Batinic.");
+            Console.WriteLine("I like pauza.");
+        }
+
         static void IvanBlazeka()
         {
             Console.WriteLine("Course title: OOM");
@@ -97,11 +109,10 @@ namespace TestGitRebase
             Console.WriteLine("I like čevapi s lukom");
         }
 
-        static void MatejaVukic()
+        static void IvanZoric()
         {
             Console.WriteLine("Course title: OOM");
-            Console.WriteLine("My Name is Mateja Vukic.");
-            Console.WriteLine("I like cabbage.");
+            Console.WriteLine("My Name is Ivan Zorić.");
         }
 
         static void JulijanSribar()
@@ -111,18 +122,6 @@ namespace TestGitRebase
             Console.WriteLine("I like chocolate.");
         }
 
-        static void PaolaKolar()
-        {
-            Console.WriteLine("Course title: OOM");
-            Console.WriteLine("My Name is Paola Kolar.");
-            Console.WriteLine("I like Cheesecake");
-        }
-        static void EmilOrdanic()
-        {
-            Console.WriteLine("Course title: OOM");
-            Console.WriteLine("My Name is Emil Ordanic.");
-            Console.WriteLine("I like Corona");
-        }
         static void MarioBilic()
         {
             Console.WriteLine("Course title: OOM");
@@ -130,33 +129,37 @@ namespace TestGitRebase
             Console.WriteLine("I like food");
         }
 
+        static void MarkoVitkovic()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Marko Vitković.");
+        }
+
+        static void MatejaVukic()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Mateja Vukic.");
+            Console.WriteLine("I like cabbage.");
+        }
+
+        static void PaolaKolar()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Paola Kolar.");
+            Console.WriteLine("I like Cheesecake");
+        }
+
+        static void SaraCuzelePapata()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Sara Ćuzele Papata.");
+            Console.WriteLine("I like chocolate.");
+        }
         static void SenadMandzic()
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Senad Mandzic.");
             Console.WriteLine("I like chocolate");
-        }
-        static void BornaBrisar()
-        {
-            Console.WriteLine("Course title: OOM");
-            Console.WriteLine("Aj lajk chai");
-            Console.WriteLine("My Name is Borna Brisar.");
-        }
-
-        static void DarijBaldasari() {
-            Console.WriteLine("Course title: OOM");
-            Console.WriteLine("My Name is Darij Baldasari.");
-            Console.WriteLine("I like sir");
-        }
-
-       
-       
-       
-        static void DonaPejnovic()
-        {
-            Console.WriteLine("Course title: OOM");
-            Console.WriteLine("My Name is Dona Pejnovic.");
-            Console.WriteLine("I like ramen");
         }
     }
 }

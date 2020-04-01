@@ -181,6 +181,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Josip Vuckovic.");
             Console.WriteLine("I like ... something... sometimes...");
+            Console.WriteLine("My favourite place is far away....");
         }
 
         static void JulijanSribar()

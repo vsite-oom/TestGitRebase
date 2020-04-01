@@ -19,6 +19,7 @@ namespace TestGitRebase
             DomagojSalkic();
             DonaPejnovic();
             EmilOrdanic();
+            FilipVelebitSamodol();
             FranKalinger();
             IvanBatinic();
             IvanBlazeka();
@@ -87,6 +88,13 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Emil Ordanic.");
             Console.WriteLine("I like Corona");
+        }
+
+        static void FilipVelebitSamodol()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Filip Velebit Samodol.");
+            Console.WriteLine("I Like neku grupu ili omiljenu hranu.");
         }
 
         static void FranKalinger()

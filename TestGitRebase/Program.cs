@@ -26,6 +26,7 @@ namespace TestGitRebase
             FranŠafranec();
             IvanBatinic();
             IvanBlazeka();
+            IvanMihin();
             IvanZoric();
             JosipVuckovic();
             JulijanSribar();
@@ -141,6 +142,13 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Ivan Blažeka.");
             Console.WriteLine("I like čevapi s lukom");
+        }
+
+        static void IvanMihin()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Ivan Mihin.");
+            Console.WriteLine("I like chocolate.");
         }
 
         static void IvanZoric()

@@ -35,6 +35,7 @@ namespace TestGitRebase
             MarkoVitkovic();
             MatejaVukic();
             PaolaKolar();
+            PaskoBerisic();
             SaraCuzelePapata();
             SenadMandzic();
             SvenGotal();
@@ -160,6 +161,13 @@ namespace TestGitRebase
             Console.WriteLine("I like chocolate.");
         }
 
+        static void IvanMihin()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Ivan Mihin.");
+            Console.WriteLine("I like chocolate.");
+        }
+
         static void IvanZoric()
         {
             Console.WriteLine("Course title: OOM");
@@ -219,6 +227,16 @@ namespace TestGitRebase
             Console.WriteLine("My Name is Paola Kolar.");
             Console.WriteLine("I like Cheesecake");
             Console.WriteLine("My favourite place is Lviv.");
+        }
+
+        static void PaskoBerisic()
+        {
+            
+                Console.WriteLine("Course title: OOM");
+                Console.WriteLine("My Name is Pasko Berisic.");
+                Console.WriteLine("I like nothing.");
+            Console.WriteLine("My favorite place is nowhere.");
+            
         }
 
         static void SaraCuzelePapata()

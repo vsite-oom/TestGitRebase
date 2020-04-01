@@ -12,6 +12,7 @@ namespace TestGitRebase
         {
             Nastavnik();
 
+            AnteMiskovic();
             AuroMazzi();
             BornaBrisar();
             DanijelKrpes();
@@ -41,6 +42,13 @@ namespace TestGitRebase
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My name is Julijan");
+        }
+
+        static void AnteMiskovic()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Ante Miskovic.");
+            Console.WriteLine("I like ćevap.");
         }
 
         static void AuroMazzi()

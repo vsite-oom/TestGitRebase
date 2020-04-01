@@ -246,6 +246,7 @@ namespace TestGitRebase
 			Console.WriteLine("Course title: OOM");
 			Console.WriteLine("My Name is Roland Rostohar.");
 			Console.WriteLine("I like taking a good s**t");
+			Console.WriteLine("My favourite place is toilet");
 		}
 		static void SaraCuzelePapata()
         {

@@ -163,6 +163,8 @@ namespace TestGitRebase
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Ivan Zorić.");
+            Console.WriteLine("I like healthy food.");
+            Console.WriteLine("My favourite place is London.");
         }
 
         static void JosipVuckovic()

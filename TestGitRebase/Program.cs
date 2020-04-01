@@ -80,6 +80,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Danijel Krpes.");
             Console.WriteLine("My jello is still shaking from the earthquake.");
+            Console.WriteLine("My favorite place is Cape Canaveral");
         }
 
         static void DarijBaldasari()

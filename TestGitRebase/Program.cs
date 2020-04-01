@@ -55,6 +55,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Ante Miskovic.");
             Console.WriteLine("I like ćevap.");
+            Console.WriteLine("My favorite place is Zagreb.");
         }
 
         static void AuroMazzi()

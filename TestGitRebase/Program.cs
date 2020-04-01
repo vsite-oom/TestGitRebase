@@ -97,6 +97,7 @@ namespace TestGitRebase
             System.Console.WriteLine("Courese title: OOM");
             Console.WriteLine("My Name is Domagoj Salkić.");
             Console.WriteLine("I like chocolate.");
+            Console.WriteLine("My favorite place is Home");
         }
 
         static void DonaPejnovic()

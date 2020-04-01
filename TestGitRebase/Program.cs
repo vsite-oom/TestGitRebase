@@ -15,6 +15,7 @@ namespace TestGitRebase
             AnteMiskovic();
             AuroMazzi();
             BornaBrisar();
+            BrunoČale();
             DanijelKrpes();
             DarijBaldasari();
             DomagojSalkic();
@@ -64,6 +65,13 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("Aj lajk chai");
             Console.WriteLine("My Name is Borna Brisar.");
+        }
+
+        static void BrunoČale()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Bruno Cale.");
+            Console.WriteLine("I like cevape.");
         }
 
         static void DanijelKrpes()

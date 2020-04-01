@@ -37,6 +37,7 @@ namespace TestGitRebase
             PaolaKolar();
             SaraCuzelePapata();
             SenadMandzic();
+            SvenGotal();
 
             Console.ReadKey(false);
         }
@@ -218,6 +219,12 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Senad Mandzic.");
             Console.WriteLine("I like chocolate");
+        }
+        static void SvenGotal()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Sven Gotal.");
+            Console.WriteLine("I like soup.");
         }
     }
 }

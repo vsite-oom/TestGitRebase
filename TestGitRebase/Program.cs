@@ -138,6 +138,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Ivan Batinic.");
             Console.WriteLine("I like pauza.");
+            Console.WriteLine("My favourite place is krevet.");
         }
 
         static void IvanBlazeka()

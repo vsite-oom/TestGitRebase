@@ -60,6 +60,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Auro Mazzi.");
             Console.WriteLine("I like the song 'I got it from Agnes' by Tom Lehrer!");
+            Console.WriteLine("My favourite place is the fridge");
         }
 
         static void BornaBrisar()
@@ -67,6 +68,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("Aj lajk chai");
             Console.WriteLine("My Name is Borna Brisar.");
+            Console.WriteLine("My favourite place is home. ");
         }
 
         static void BrunoČale()
@@ -81,6 +83,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Danijel Krpes.");
             Console.WriteLine("My jello is still shaking from the earthquake.");
+            Console.WriteLine("My favorite place is Cape Canaveral");
         }
 
         static void DarijBaldasari()
@@ -95,6 +98,7 @@ namespace TestGitRebase
             System.Console.WriteLine("Courese title: OOM");
             Console.WriteLine("My Name is Domagoj Salkić.");
             Console.WriteLine("I like chocolate.");
+            Console.WriteLine("My favorite place is Home");
         }
 
         static void DonaPejnovic()
@@ -109,6 +113,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Emil Ordanic.");
             Console.WriteLine("I like Corona");
+            Console.WriteLine("My favoruite city is Zagreb");
         }
 
         static void FilipVelebitSamodol()
@@ -136,6 +141,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Ivan Batinic.");
             Console.WriteLine("I like pauza.");
+            Console.WriteLine("My favourite place is krevet.");
         }
 
         static void IvanBlazeka()
@@ -143,6 +149,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Ivan Blažeka.");
             Console.WriteLine("I like čevapi s lukom");
+            Console.WriteLine("My favourite place is Pušća Bistra");
         }
 
         static void IvanMihin()
@@ -171,6 +178,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Julijan Šribar.");
             Console.WriteLine("I like chocolate.");
+            Console.WriteLine("My favourite place is Ozalj.");
         }
 
         static void MarioBilic()
@@ -178,6 +186,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Mario Bilić.");
             Console.WriteLine("I like food");
+            Console.WriteLine("My favourite place is my garage");
         }
 
         static void MarkoBoros()
@@ -206,6 +215,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Paola Kolar.");
             Console.WriteLine("I like Cheesecake");
+            Console.WriteLine("My favourite place is Lviv.");
         }
 
         static void SaraCuzelePapata()
@@ -225,6 +235,7 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Sven Gotal.");
             Console.WriteLine("I like soup.");
+            Console.WriteLine("My favourite place is Zagreb.");
         }
     }
 }

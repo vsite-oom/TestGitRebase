@@ -252,6 +252,7 @@ namespace TestGitRebase
                 Console.WriteLine("My Name is Pasko Berisic.");
                 Console.WriteLine("I like nothing.");
             Console.WriteLine("My favorite place is nowhere.");
+            Console.WriteLine("My favorite movie is NoN.");
             
         }
 		static void RolandRostohar()

@@ -64,6 +64,7 @@ namespace TestGitRebase
             Console.WriteLine("My Name is Auro Mazzi.");
             Console.WriteLine("I like the song 'I got it from Agnes' by Tom Lehrer!");
             Console.WriteLine("My favourite place is the fridge");
+            Console.WriteLine("My favourite movie is Groundhog Day");
         }
 
         static void BornaBrisar()

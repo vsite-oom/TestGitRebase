@@ -190,6 +190,7 @@ namespace TestGitRebase
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Marko Vitković.");
+			Console.WriteLine("I like pizza");
 			Console.WriteLine("England");
         }
 

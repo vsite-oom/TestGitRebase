@@ -289,6 +289,7 @@ namespace TestGitRebase
 			Console.WriteLine("My Name is Roland Rostohar.");
 			Console.WriteLine("I like taking a good s**t");
 			Console.WriteLine("My favourite place is toilet");
+			Console.WriteLine("My favourite movie is 2girls1cup");
 		}
 		static void SaraCuzelePapata()
         {

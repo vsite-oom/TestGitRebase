@@ -166,6 +166,7 @@ namespace TestGitRebase
             Console.WriteLine("My Name is Ivan Mihin.");
             Console.WriteLine("I like ananas.");
             Console.WriteLine("My favorite country is Canada.");
+            Console.WriteLine("My favorite movie is Scarface.");
         }
 
         static void IvanZoric()

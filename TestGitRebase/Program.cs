@@ -103,6 +103,7 @@ namespace TestGitRebase
             Console.WriteLine("My Name is Domagoj Salkić.");
             Console.WriteLine("I like chocolate.");
             Console.WriteLine("My favorite place is Home");
+            Console.WriteLine("My favorite movie is The Godfather.");
         }
 
         static void DonaPejnovic()

@@ -190,7 +190,7 @@ namespace TestGitRebase
             Console.WriteLine("My Name is Julijan Šribar.");
             Console.WriteLine("I like chocolate.");
             Console.WriteLine("My favourite place is Ozalj.");
-            Console.WriteLine("My favourite movie is Casablanca");
+            Console.WriteLine("My favourite movie is Casablanca.");
         }
 
         static void MarioBilic()

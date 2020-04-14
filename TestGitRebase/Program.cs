@@ -259,6 +259,7 @@ namespace TestGitRebase
             Console.WriteLine("My Name is Sara Ćuzele Papata.");
             Console.WriteLine("I like chocolate.");
             Console.WriteLine("My favourite place is home.");
+            Console.WriteLine("My favourite movie is fight club.");
         }
         static void SenadMandzic()
         {

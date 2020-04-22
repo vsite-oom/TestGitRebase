@@ -64,6 +64,7 @@
     <Compile Include="BornaBrisar.cs" />
     <Compile Include="JosipVuckovic.cs" />
     <Compile Include="JulijanSribar.cs" />
+    <Compile Include="PaolaKolar.cs" />
     <Compile Include="DonaPejnovic.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

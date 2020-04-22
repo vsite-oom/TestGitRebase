@@ -48,6 +48,8 @@ namespace TestGitRebase
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My name is Julijan");
+            var myClass = new Teacher();
+            myClass.Present();
         }
 
         static void AnteMiskovic()

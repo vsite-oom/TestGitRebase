@@ -165,6 +165,8 @@ namespace TestGitRebase
             Console.WriteLine("I like čevapi s lukom");
             Console.WriteLine("My favourite place is Pušća Bistra");
             Console.WriteLine("My favourite movie is Jovan Fitilj (John Wick)");
+            var myClass = new IvanBlazeka();
+            myClass.Present();
         }
 
         static void IvanMihin()

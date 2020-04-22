@@ -47,6 +47,7 @@
     <Compile Include="MatejaVukic.cs" />
     <Compile Include="BornaBrisar.cs" />
     <Compile Include="JosipVuckovic.cs" />
+    <Compile Include="JosipaBanovac.cs" />
     <Compile Include="JulijanSribar.cs" />
     <Compile Include="DonaPejnovic.cs" />
     <Compile Include="Program.cs" />

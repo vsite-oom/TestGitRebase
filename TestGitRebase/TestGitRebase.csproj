@@ -49,7 +49,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-	<Compile Include="JosipVuckovic.cs" />
+  <Compile Include="JosipVuckovic.cs" />
     <Compile Include="AuroMazzi.cs" />
     <Compile Include="DonaPejnovic.cs" />
     <Compile Include="IvanBatinic.cs" />
@@ -70,6 +70,7 @@
     <Compile Include="IvanBlazeka.cs" />
     <Compile Include="MarioBilic.cs" />
     <Compile Include="DomagojSalkic.cs" />
+	 <Compile Include="IZoric.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SaraCuzelePapata.cs" />

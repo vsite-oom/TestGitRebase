@@ -193,6 +193,8 @@ namespace TestGitRebase
             Console.WriteLine("I like healthy food.");
             Console.WriteLine("My favourite place is London.");
             Console.WriteLine("My favourite movie is idk.");
+            var myClass = new IZoric();
+            myClass.Present();
         }
 
         static void JosipVuckovic()

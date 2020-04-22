@@ -193,6 +193,8 @@ namespace TestGitRebase
             Console.WriteLine("I like ... something... sometimes...");
             Console.WriteLine("My favourite place is far away....");
             Console.WriteLine("My favorite movie is SW...");
+            var myClass = new JosipVuckovic();
+            myClass.Present();
         }
 
         static void JulijanSribar()

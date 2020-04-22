@@ -11,7 +11,7 @@ namespace TestGitRebase
         static void Main(string[] args)
         {
             Nastavnik();
-
+            
             AnteMiskovic();
             AuroMazzi();
             BornaBrisar();
@@ -40,7 +40,7 @@ namespace TestGitRebase
             SaraCuzelePapata();
             SenadMandzic();
             SvenGotal();
-
+            JosipaBanovac();
             Console.ReadKey(false);
         }
 
@@ -283,6 +283,15 @@ namespace TestGitRebase
             Console.WriteLine("I like soup.");
             Console.WriteLine("My favourite place is Zagreb.");
             Console.WriteLine("My favourite movie is: Event Horizon");
+        }
+
+        static void JosipaBanovac()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Josipa Banovac.");
+            Console.WriteLine("I like white colour.");
+            Console.WriteLine("My favourite place is Skradin.");
+            Console.WriteLine("My favourite movie is: The call of wild");
         }
     }
 }

@@ -78,6 +78,8 @@ namespace TestGitRebase
             Console.WriteLine("My Name is Borna Brisar.");
             Console.WriteLine("My favourite place is home. ");
             Console.WriteLine("My favourite movie is 300. ");
+            var myClass = new BornaBrisar(); 
+            myClass.Present();
         }
 
         static void BrunoČale()

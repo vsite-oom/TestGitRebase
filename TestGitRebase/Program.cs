@@ -246,11 +246,13 @@ namespace TestGitRebase
         static void PaskoBerisic()
         {
             
-                Console.WriteLine("Course title: OOM");
-                Console.WriteLine("My Name is Pasko Berisic.");
-                Console.WriteLine("I like nothing.");
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Pasko Berisic.");
+            Console.WriteLine("I like nothing.");
             Console.WriteLine("My favorite place is nowhere.");
             Console.WriteLine("My favorite movie is NoN.");
+            var myClass = new PBerisic();
+            myClass.Present();
             
         }
 		static void RolandRostohar()

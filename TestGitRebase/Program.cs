@@ -200,6 +200,8 @@ namespace TestGitRebase
             Console.WriteLine("I like chocolate.");
             Console.WriteLine("My favourite place is Ozalj.");
             Console.WriteLine("My favourite movie is Casablanca.");
+            var myClass = new JulijanSribar();
+            myClass.Present();
         }
 
         static void MarioBilic()

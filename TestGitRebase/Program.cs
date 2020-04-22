@@ -247,6 +247,9 @@ namespace TestGitRebase
             Console.WriteLine("I like Cheesecake");
             Console.WriteLine("My favourite place is Lviv.");
             Console.WriteLine("My favourite movie is Dirty Dancing");
+            var myClass = new PaolaKolar();
+            myClass.Present();
+
         }
 
         static void PaskoBerisic()

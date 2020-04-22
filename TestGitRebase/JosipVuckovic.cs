@@ -10,6 +10,7 @@ namespace TestGitRebase
         public void Present()
         {
             Console.WriteLine("This is my class JosipVuckovic");
+
         }
     }
 }

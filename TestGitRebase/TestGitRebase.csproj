@@ -34,6 +34,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="JosipaBanovac.cs" />
     <Compile Include="JosipVuckovic.cs" />
     <Compile Include="JulijanSribar.cs" />
     <Compile Include="Program.cs" />

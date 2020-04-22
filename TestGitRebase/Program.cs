@@ -110,6 +110,8 @@ namespace TestGitRebase
             Console.WriteLine("I like chocolate.");
             Console.WriteLine("My favorite place is Home");
             Console.WriteLine("My favorite movie is The Godfather.");
+            var myClass = new DomagojSalkic();
+            myClass.Present();
         }
 
         static void DonaPejnovic()

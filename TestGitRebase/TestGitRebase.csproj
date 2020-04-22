@@ -38,6 +38,7 @@
     <Compile Include="IvanBatinic.cs" />
     <Compile Include="JosipaBanovac.cs" />
     <Compile Include="JosipVuckovic.cs" />
+	<Compile Include="SaraCuzelePapata.cs" />
     <Compile Include="JulijanSribar.cs" />
     <Compile Include="PaolaKolar.cs" />
     <Compile Include="IvanBlazeka.cs" />

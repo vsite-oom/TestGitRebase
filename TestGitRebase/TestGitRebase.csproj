@@ -34,14 +34,11 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AuroMazzi.cs" />
     <Compile Include="JosipVuckovic.cs" />
-    <Compile Include="JosipaBanovac.cs" />
     <Compile Include="JulijanSribar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Teacher.cs" />
-    <Compile Include="SaraCuzelePapata.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -294,6 +294,9 @@ namespace TestGitRebase
             Console.WriteLine("I like white colour.");
             Console.WriteLine("My favourite place is Skradin.");
             Console.WriteLine("My favourite movie is: The call of wild");
+
+            var myClass = new JosipaBanovac();
+            myClass.Present();
         }
     }
 }

@@ -35,6 +35,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AuroMazzi.cs" />
+    <Compile Include="IvanBatinic.cs" />
     <Compile Include="JosipaBanovac.cs" />
     <Compile Include="JulijanSribar.cs" />
     <Compile Include="Program.cs" />

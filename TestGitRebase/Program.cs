@@ -217,6 +217,8 @@ namespace TestGitRebase
             Console.WriteLine("I like food");
             Console.WriteLine("My favourite place is my garage");
             Console.WriteLine("My favourite movie is ");
+            var myClass = new MarioBilic();
+            myClass.Present();
         }
 
         static void MarkoBoros()

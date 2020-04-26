@@ -7,15 +7,9 @@ namespace TestGitRebase
 {
     class SvenGotal
     {
-
         public void Present()
         {
-
             Console.WriteLine("This is my class Sven.");
-
         }
-
-
-
     }
 }

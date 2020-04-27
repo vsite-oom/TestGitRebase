@@ -9,7 +9,7 @@ namespace TestGitRebase
     {
         public void Present()
         {
-            Console.WriteLine("Ovo je moja klasa DonaPejnovic");
+            Console.WriteLine("This is my class DonaPejnovic");
         }
     }
 }

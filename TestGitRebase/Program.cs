@@ -123,6 +123,8 @@ namespace TestGitRebase
             Console.WriteLine("I like ramen");
             Console.WriteLine("My fav place is by the sea");
             Console.WriteLine("My favourite movie is Akira");
+            var myClass = new DonaPejnovic();
+            myClass.Present();
         }
 
         static void EmilOrdanic()

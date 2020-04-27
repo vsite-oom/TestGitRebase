@@ -51,6 +51,7 @@
   <ItemGroup>
 	<Compile Include="JosipVuckovic.cs" />
     <Compile Include="AuroMazzi.cs" />
+    <Compile Include="DonaPejnovic.cs" />
     <Compile Include="IvanBatinic.cs" />
     <Compile Include="JosipaBanovac.cs" />
     <Compile Include="JosipVuckovic.cs" />

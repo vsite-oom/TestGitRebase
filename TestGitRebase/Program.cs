@@ -11,7 +11,7 @@ namespace TestGitRebase
         static void Main(string[] args)
         {
             Nastavnik();
-
+            
             AnteMiskovic();
             AuroMazzi();
             BornaBrisar();
@@ -40,7 +40,7 @@ namespace TestGitRebase
             SaraCuzelePapata();
             SenadMandzic();
             SvenGotal();
-
+            JosipaBanovac();
             Console.ReadKey(false);
         }
 
@@ -67,6 +67,8 @@ namespace TestGitRebase
             Console.WriteLine("I like the song 'I got it from Agnes' by Tom Lehrer!");
             Console.WriteLine("My favourite place is the fridge");
             Console.WriteLine("My favourite movie is Groundhog Day");
+            var myClass = new AuroMazzi();
+            myClass.Present();
         }
 
         static void BornaBrisar()
@@ -76,6 +78,8 @@ namespace TestGitRebase
             Console.WriteLine("My Name is Borna Brisar.");
             Console.WriteLine("My favourite place is home. ");
             Console.WriteLine("My favourite movie is 300. ");
+            var myClass = new BornaBrisar(); 
+            myClass.Present();
         }
 
         static void BrunoČale()
@@ -108,6 +112,8 @@ namespace TestGitRebase
             Console.WriteLine("I like chocolate.");
             Console.WriteLine("My favorite place is Home");
             Console.WriteLine("My favorite movie is The Godfather.");
+            var myClass = new DomagojSalkic();
+            myClass.Present();
         }
 
         static void DonaPejnovic()
@@ -117,6 +123,10 @@ namespace TestGitRebase
             Console.WriteLine("I like ramen");
             Console.WriteLine("My fav place is by the sea");
             Console.WriteLine("My favourite movie is Akira");
+
+            var myClass = new DonaPejnovic();
+            myClass.Present();
+
         }
 
         static void EmilOrdanic()
@@ -154,6 +164,8 @@ namespace TestGitRebase
             Console.WriteLine("I like pauza.");
             Console.WriteLine("My favourite place is krevet.");
             Console.WriteLine("My favourite movie is Vruci u sedlu.");
+            var myClass = new IvanBatinic();
+            myClass.Present();
         }
 
         static void IvanBlazeka()
@@ -163,6 +175,8 @@ namespace TestGitRebase
             Console.WriteLine("I like čevapi s lukom");
             Console.WriteLine("My favourite place is Pušća Bistra");
             Console.WriteLine("My favourite movie is Jovan Fitilj (John Wick)");
+            var myClass = new IvanBlazeka();
+            myClass.Present();
         }
 
         static void IvanMihin()
@@ -191,6 +205,8 @@ namespace TestGitRebase
             Console.WriteLine("I like ... something... sometimes...");
             Console.WriteLine("My favourite place is far away....");
             Console.WriteLine("My favorite movie is SW...");
+            var myClass = new JosipVuckovic();
+            myClass.Present();
         }
 
         static void JulijanSribar()
@@ -200,6 +216,8 @@ namespace TestGitRebase
             Console.WriteLine("I like chocolate.");
             Console.WriteLine("My favourite place is Ozalj.");
             Console.WriteLine("My favourite movie is Casablanca.");
+            var myClass = new JulijanSribar();
+            myClass.Present();
         }
 
         static void MarioBilic()
@@ -209,6 +227,8 @@ namespace TestGitRebase
             Console.WriteLine("I like food");
             Console.WriteLine("My favourite place is my garage");
             Console.WriteLine("My favourite movie is ");
+            var myClass = new MarioBilic();
+            myClass.Present();
         }
 
         static void MarkoBoros()
@@ -232,6 +252,8 @@ namespace TestGitRebase
             Console.WriteLine("I like cabbage.");
             Console.WriteLine("My favuorite place is Murvica");
             Console.WriteLine("My favourite movie is Pulp Fiction");
+            var myClass = new MatejaVukic();
+            myClass.Present();
         }
 
         static void PaolaKolar()
@@ -241,6 +263,9 @@ namespace TestGitRebase
             Console.WriteLine("I like Cheesecake");
             Console.WriteLine("My favourite place is Lviv.");
             Console.WriteLine("My favourite movie is Dirty Dancing");
+            var myClass = new PaolaKolar();
+            myClass.Present();
+
         }
 
         static void PaskoBerisic()
@@ -250,6 +275,7 @@ namespace TestGitRebase
                 Console.WriteLine("My Name is Pasko Berisic.");
                 Console.WriteLine("I like nothing.");
             Console.WriteLine("My favorite place is nowhere.");
+            Console.WriteLine("My favorite movie is NoN.");
             
         }
 		static void RolandRostohar()
@@ -266,6 +292,8 @@ namespace TestGitRebase
             Console.WriteLine("I like chocolate.");
             Console.WriteLine("My favourite place is home.");
             Console.WriteLine("My favourite movie is fight club.");
+            var myClass = new SaraCuzelePapata();
+            myClass.Present();
         }
         static void SenadMandzic()
         {
@@ -280,6 +308,21 @@ namespace TestGitRebase
             Console.WriteLine("I like soup.");
             Console.WriteLine("My favourite place is Zagreb.");
             Console.WriteLine("My favourite movie is: Event Horizon");
+
+            var myClass = new SvenGotal();
+            myClass.Present();
+        }
+
+        static void JosipaBanovac()
+        {
+            Console.WriteLine("Course title: OOM");
+            Console.WriteLine("My Name is Josipa Banovac.");
+            Console.WriteLine("I like white colour.");
+            Console.WriteLine("My favourite place is Skradin.");
+            Console.WriteLine("My favourite movie is: The call of wild");
+
+            var myClass = new JosipaBanovac();
+            myClass.Present();
         }
     }
 }

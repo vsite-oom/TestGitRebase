@@ -10,6 +10,21 @@
     <AssemblyName>TestGitRebase</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -34,10 +49,45 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+
     <Compile Include="DonaPejnovic.cs" />
+
+	<Compile Include="JosipVuckovic.cs" />
+    <Compile Include="AuroMazzi.cs" />
+    <Compile Include="DonaPejnovic.cs" />
+    <Compile Include="IvanBatinic.cs" />
+    <Compile Include="JosipaBanovac.cs" />
+    <Compile Include="JosipVuckovic.cs" />
+	<Compile Include="SaraCuzelePapata.cs" />
+    <Compile Include="JulijanSribar.cs" />
+    <Compile Include="PaolaKolar.cs" />
+    <Compile Include="IvanBlazeka.cs" />
+    <Compile Include="MarioBilic.cs" />
+    <Compile Include="DomagojSalkic.cs" />
+    <Compile Include="MatejaVukic.cs" />
+    <Compile Include="BornaBrisar.cs" />
+    <Compile Include="JosipVuckovic.cs" />
+    <Compile Include="JulijanSribar.cs" />
+    <Compile Include="PaolaKolar.cs" />
+    <Compile Include="DonaPejnovic.cs" />
+    <Compile Include="IvanBlazeka.cs" />
+    <Compile Include="MarioBilic.cs" />
+    <Compile Include="DomagojSalkic.cs" />
+
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SaraCuzelePapata.cs" />
+    <Compile Include="SvenGotal.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
     <Compile Include="Teacher.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

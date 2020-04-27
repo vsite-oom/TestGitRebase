@@ -5,13 +5,11 @@ using System.Text;
 
 namespace TestGitRebase
 {
-    class DonaPejnovic
+    class JosipaBanovac
     {
         public void Present()
         {
-
-            Console.WriteLine("This is my class DonaPejnovic");
-
+            Console.WriteLine("This is my class Josipa Banovac.");
         }
     }
 }

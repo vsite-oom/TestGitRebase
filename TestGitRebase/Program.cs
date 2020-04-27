@@ -115,6 +115,8 @@ namespace TestGitRebase
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Dona Pejnovic.");
             Console.WriteLine("I like ramen");
+            Console.WriteLine("My fav place is by the sea");
+            Console.WriteLine("My favourite movie is Akira");
         }
 
         static void EmilOrdanic()

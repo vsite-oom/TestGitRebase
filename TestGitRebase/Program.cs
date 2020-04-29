@@ -192,9 +192,12 @@ namespace TestGitRebase
             Console.WriteLine("My Name is Marko Vitković.");
 			Console.WriteLine("I like pizza");
 			Console.WriteLine("England");
-        }
+			var myClass = new MarkoVitkovic();
+			myClass.Present();
 
-        static void MatejaVukic()
+		}
+
+		static void MatejaVukic()
         {
             Console.WriteLine("Course title: OOM");
             Console.WriteLine("My Name is Mateja Vukic.");

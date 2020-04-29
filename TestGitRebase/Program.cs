@@ -96,6 +96,8 @@ namespace TestGitRebase
             Console.WriteLine("My Name is Danijel Krpes.");
             Console.WriteLine("My jello is still shaking from the earthquake.");
             Console.WriteLine("My favorite place is Cape Canaveral");
+            var myClass = new DanijelKrpes();
+            myClass.Present();
         }
 
         static void DarijBaldasari()

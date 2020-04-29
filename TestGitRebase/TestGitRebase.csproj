@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AuroMazzi.cs" />
+    <Compile Include="DanijelKrpes.cs" />
     <Compile Include="DonaPejnovic.cs" />
     <Compile Include="Dummy.cs" />
     <Compile Include="IvanBatinic.cs" />

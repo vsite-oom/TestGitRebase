@@ -290,6 +290,8 @@ namespace TestGitRebase
 			Console.WriteLine("I like taking a good s**t");
 			Console.WriteLine("My favourite place is toilet");
 			Console.WriteLine("My favourite movie is 2girls1cup");
+			var MyClass = new RolandRostohar();
+			MyClass.Present();
 		}
 		static void SaraCuzelePapata()
         {

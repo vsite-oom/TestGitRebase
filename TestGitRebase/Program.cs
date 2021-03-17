@@ -11,10 +11,16 @@ namespace TestGitRebase
         static void Main(string[] args)
         {
             Iposavac();
+            JSribar();
             JSribar2();
         }
 
         static void Iposavac()
+        {
+
+        }
+
+        static void JSribar()
         {
 
         }

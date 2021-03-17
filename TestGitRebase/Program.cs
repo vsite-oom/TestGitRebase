@@ -10,6 +10,17 @@ namespace TestGitRebase
     {
         static void Main(string[] args)
         {
+            Iposavac();
         }
+
+        static void Iposavac()
+        {
+
+        }
+
+        
+        
+
+        
     }
 }

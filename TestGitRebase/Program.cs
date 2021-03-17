@@ -16,12 +16,15 @@ namespace TestGitRebase
             JSribar2();
             mcop();
             AZunic();
+            VBehin();
         }
 
         static void Nastavnik()
         {
 
         }
+           
+       
 
         static void Iposavac()
         {
@@ -43,6 +46,11 @@ namespace TestGitRebase
         }
 
         static void AZunic()
+        {
+
+        }
+        
+        static void VBehin()
         {
 
         }

@@ -10,6 +10,7 @@ namespace TestGitRebase
     {
         static void Main(string[] args)
         {
+
             Nastavnik();
             Iposavac();
             JSribar();
@@ -18,13 +19,14 @@ namespace TestGitRebase
             AZunic();
             VBehin();
             DJergovic();
+            KBratkovic();
         }
 
         static void Nastavnik()
         {
 
         }
-           
+         
        
 
         static void Iposavac()
@@ -57,6 +59,11 @@ namespace TestGitRebase
         }
 
         static void DJergovic()
+        {
+
+        }
+
+        static void KBratkovic()
         {
 
         }

@@ -14,6 +14,7 @@ namespace TestGitRebase
             Iposavac();
             JSribar();
             JSribar2();
+            mcop();
         }
 
         static void Nastavnik()
@@ -22,6 +23,10 @@ namespace TestGitRebase
         }
 
         static void Iposavac()
+        {
+
+        }
+        static void mcop()
         {
 
         }

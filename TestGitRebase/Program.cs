@@ -10,9 +10,15 @@ namespace TestGitRebase
     {
         static void Main(string[] args)
         {
+            Nastavnik();
             Iposavac();
             JSribar();
             JSribar2();
+        }
+
+        static void Nastavnik()
+        {
+
         }
 
         static void Iposavac()

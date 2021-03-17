@@ -10,6 +10,9 @@ namespace TestGitRebase
     {
         static void Main(string[] args)
         {
+            MMiseric();
         }
+
+        static void MMiseric() { }
     }
 }

@@ -15,6 +15,7 @@ namespace TestGitRebase
             JSribar();
             JSribar2();
             mcop();
+            AZunic();
         }
 
         static void Nastavnik()
@@ -37,6 +38,11 @@ namespace TestGitRebase
         }
 
         static void JSribar2()
+        {
+
+        }
+
+        static void AZunic()
         {
 
         }

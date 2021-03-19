@@ -17,6 +17,7 @@ namespace TestGitRebase
             mcop();
             AZunic();
             VBehin();
+            DJergovic();
         }
 
         static void Nastavnik()
@@ -51,6 +52,11 @@ namespace TestGitRebase
         }
         
         static void VBehin()
+        {
+
+        }
+
+        static void DJergovic()
         {
 
         }

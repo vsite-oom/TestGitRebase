@@ -13,6 +13,7 @@ namespace TestGitRebase
 
             Nastavnik();
             Iposavac();
+            DKrpes();
             JSribar();
             JSribar2();
             mcop();
@@ -27,7 +28,10 @@ namespace TestGitRebase
 
         }
          
-       
+       static void DKrpes()
+        {
+
+        }
 
         static void Iposavac()
         {

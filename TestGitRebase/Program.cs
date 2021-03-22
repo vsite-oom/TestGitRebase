@@ -25,7 +25,7 @@ namespace TestGitRebase
 
         static void IBukvic()
         {
-
+            //TODO : add comment
         }
 
         static void Nastavnik()

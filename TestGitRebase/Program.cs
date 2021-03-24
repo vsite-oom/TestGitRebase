@@ -46,7 +46,7 @@ namespace TestGitRebase
 
         static void JSribar()
         {
-
+            Console.WriteLine("My name is Julijan Šribar");
         }
 
         static void JSribar2()

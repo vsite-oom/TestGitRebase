@@ -71,7 +71,7 @@ namespace TestGitRebase
 
         static void KBratkovic()
         {
-
+            Console.WriteLine("My name is Kresimir Bratkovic");
         }
 
         static void JSribar3()

@@ -23,6 +23,7 @@ namespace TestGitRebase
             JSribar3();
             IBukvic();
             FGurqiti();
+            IMihin();
         }
 
         static void IBukvic()
@@ -67,6 +68,11 @@ namespace TestGitRebase
         static void VBehin()
         {
             Console.WriteLine("My name is Valentina Behin.");
+        }
+
+        static void IMihin()
+        {
+            Console.WriteLine("My name is Ivan Mihin");
         }
 
         static void DJergovic()

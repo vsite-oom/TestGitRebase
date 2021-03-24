@@ -112,6 +112,11 @@ namespace TestGitRebase
             Console.WriteLine("I am a student of KOU");
         }
 
+        static void mateo2903()
+        {
+            Console.WriteLine("My name is Mateo Jadrušić");
+        }
+
         static void JSribar3()
         {
             Console.WriteLine("My name is Julijan Šribar");

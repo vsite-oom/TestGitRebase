@@ -74,6 +74,11 @@ namespace TestGitRebase
 
         }
 
+        static void mateo2903()
+        {
+            Console.WriteLine("My name is Mateo Jadrušić");
+        }
+
         static void JSribar3()
         { 
             // comment

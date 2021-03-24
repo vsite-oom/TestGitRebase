@@ -30,7 +30,7 @@ namespace TestGitRebase
          
        static void DKrpes()
         {
-
+            Console.WriteLine("My name is Danijel Krpes");
         }
 
         static void Iposavac()

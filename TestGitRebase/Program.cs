@@ -66,7 +66,7 @@ namespace TestGitRebase
 
         static void DJergovic()
         {
-
+            Console.WriteLine("My name is Dario Jergović");
         }
 
         static void KBratkovic()

@@ -84,8 +84,8 @@ namespace TestGitRebase
         }
 
         static void JSribar3()
-        { 
-            // comment
+        {
+            Console.WriteLine("My name is Julijan Šribar");
         }
     }
 }

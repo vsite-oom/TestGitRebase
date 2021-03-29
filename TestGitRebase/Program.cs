@@ -22,6 +22,7 @@ namespace TestGitRebase
             KBratkovic();
             JSribar3();
             IBukvic();
+            FGurqiti();
         }
 
         static void IBukvic()
@@ -76,6 +77,10 @@ namespace TestGitRebase
         static void KBratkovic()
         {
             Console.WriteLine("My name is Kresimir Bratkovic");
+        }
+        static void FGurqiti()
+        {
+            Console.WriteLine("My name in Fati Gurqiti");
         }
 
         static void JSribar3()

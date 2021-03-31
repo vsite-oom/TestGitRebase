@@ -80,6 +80,7 @@ namespace TestGitRebase
         static void DJergovic()
         {
             Console.WriteLine("My name is Dario Jergović");
+            Console.WriteLine("I am a student of VSITE, third year.");
         }
 
         static void KBratkovic()

@@ -47,6 +47,8 @@ namespace TestGitRebase
         }
         static void mcop()
         {
+            Console.WriteLine("My name is Matija Cop");
+            Console.WriteLine("I Am a student at Vsite, third year");
 
         }
 

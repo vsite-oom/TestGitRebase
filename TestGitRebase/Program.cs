@@ -36,6 +36,7 @@ namespace TestGitRebase
         static void DKrpes()
         {
             Console.WriteLine("My name is Danijel Krpes");
+            Console.WriteLine("I am student of VSITE, third year.");
         }
 
         static void Iposavac()

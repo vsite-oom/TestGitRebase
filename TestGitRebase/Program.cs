@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TestGitRebase
 {
@@ -36,8 +32,8 @@ namespace TestGitRebase
         {
 
         }
-         
-       static void DKrpes()
+
+        static void DKrpes()
         {
             Console.WriteLine("My name is Danijel Krpes");
         }
@@ -67,7 +63,7 @@ namespace TestGitRebase
         {
 
         }
-        
+
         static void VBehin()
         {
             Console.WriteLine("My name is Valentina Behin.");
@@ -100,7 +96,8 @@ namespace TestGitRebase
         }
         static void JHusic()
         {
-
+            Console.WriteLine("My name is Jasmin Husić");
+            Console.WriteLine("I am a student of VSITE, fourth year.");
         }
     }
 }

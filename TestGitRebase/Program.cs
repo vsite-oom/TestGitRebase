@@ -24,6 +24,7 @@ namespace TestGitRebase
             IBukvic();
             FGurqiti();
             IMihin();
+            JHusic();
         }
 
         static void IBukvic()
@@ -96,6 +97,10 @@ namespace TestGitRebase
         static void JSribar3()
         {
             Console.WriteLine("My name is Julijan Šribar");
+        }
+        static void JHusic()
+        {
+
         }
     }
 }

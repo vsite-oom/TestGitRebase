@@ -77,6 +77,7 @@ namespace TestGitRebase
         static void mateo2903()
         {
             Console.WriteLine("My name is Mateo Jadrušić");
+            Console.WriteLine("I am a student of VSITE, fourth year.");
         }
 
         static void JSribar3()

@@ -89,6 +89,7 @@ namespace TestGitRebase
         static void FGurqiti()
         {
             Console.WriteLine("My name in Fati Gurqiti");
+            Console.WriteLine("I am a student of KOU");
         }
 
         static void JSribar3()

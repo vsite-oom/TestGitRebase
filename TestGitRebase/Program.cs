@@ -94,6 +94,7 @@ namespace TestGitRebase
         static void JSribar3()
         {
             Console.WriteLine("My name is Julijan Šribar");
+            Console.WriteLine("I'm a student at VSITe");
         }
         static void JHusic()
         {

@@ -22,6 +22,9 @@ namespace TestGitRebase
             IMihin();
             JHusic();
 
+            var azunic = new AZunic();
+            azunic.Message();
+
             var iobradovic = new IObradovic();
             iobradovic.Message();
 

@@ -21,6 +21,9 @@ namespace TestGitRebase
             FGurqiti();
             IMihin();
             JHusic();
+
+            var iobradovic = new IObradovic();
+            iobradovic.Message();
         }
 
         static void IBukvic()

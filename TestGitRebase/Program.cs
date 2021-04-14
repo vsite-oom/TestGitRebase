@@ -44,6 +44,9 @@ namespace TestGitRebase
             var mateo = new Mateo2903();
             mateo.Message();
 
+
+            var djergovic = new dJergovic();
+            djergovic.Message();
         }
 
         static void IBukvic()

@@ -41,6 +41,7 @@
     <Compile Include="IMihin.cs" />
     <Compile Include="KBratkovic.cs" />
     <Compile Include="Mateo2903.cs" />
+    <Compile Include="dJergovic.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

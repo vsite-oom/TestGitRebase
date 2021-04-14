@@ -33,6 +33,9 @@ namespace TestGitRebase
 
             var dkrpes = new DKrpes();
             dkrpes.Message();
+
+            var imihin = new IMihin();
+            imihin.Message();
         }
 
         static void IBukvic()

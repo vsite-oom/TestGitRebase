@@ -38,6 +38,7 @@
     <Compile Include="AZunic.cs" />
     <Compile Include="IObradovic.cs" />
     <Compile Include="JSribar.cs" />
+    <Compile Include="IMihin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

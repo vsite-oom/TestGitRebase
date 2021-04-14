@@ -24,6 +24,9 @@ namespace TestGitRebase
 
             var iobradovic = new IObradovic();
             iobradovic.Message();
+
+            var jsribar = new JSribar();
+            jsribar.Message();
         }
 
         static void IBukvic()

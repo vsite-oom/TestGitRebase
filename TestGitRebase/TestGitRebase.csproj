@@ -34,6 +34,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DKrpes.cs" />
     <Compile Include="AZunic.cs" />
     <Compile Include="IObradovic.cs" />
     <Compile Include="JSribar.cs" />

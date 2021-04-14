@@ -30,6 +30,9 @@ namespace TestGitRebase
 
             var jsribar = new JSribar();
             jsribar.Message();
+
+            var dkrpes = new DKrpes();
+            dkrpes.Message();
         }
 
         static void IBukvic()

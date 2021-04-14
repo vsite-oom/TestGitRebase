@@ -36,6 +36,9 @@ namespace TestGitRebase
 
             var imihin = new IMihin();
             imihin.Message();
+
+            var kbratkovic = new KBratkovic();
+            kbratkovic.Message();
         }
 
         static void IBukvic()

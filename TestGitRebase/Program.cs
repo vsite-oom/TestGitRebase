@@ -21,6 +21,7 @@ namespace TestGitRebase
             FGurqiti();
             IMihin();
             JHusic();
+            mateo2903();
 
             var azunic = new AZunic();
             azunic.Message();
@@ -39,6 +40,10 @@ namespace TestGitRebase
 
             var kbratkovic = new KBratkovic();
             kbratkovic.Message();
+            
+            var mateo = new Mateo2903();
+            mateo.Message();
+
         }
 
         static void IBukvic()

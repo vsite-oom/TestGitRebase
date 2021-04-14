@@ -21,6 +21,10 @@ namespace TestGitRebase
             KBratkovic();
             JSribar3();
             IBukvic();
+            mateo2903();
+
+            var mateo2903 = new mateo2903();
+            mateo2903.Message();
         }
 
         static void IBukvic()

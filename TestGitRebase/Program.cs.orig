@@ -90,6 +90,9 @@ namespace TestGitRebase
 
         }
 
+<<<<<<< HEAD
+        static void MMiseric() { }
+=======
         static void AZunic()
         {
 
@@ -139,10 +142,6 @@ namespace TestGitRebase
             Console.WriteLine("My name is Jasmin Husić");
             Console.WriteLine("I am a student of VSITE, fourth year.");
         }
-
-        static void MMiseric() {
-            Console.WriteLine("My name is Mislav Mišerić");
-            Console.WriteLine("I am student of VSITE, fourth year.");
-        }
+>>>>>>> origin/master
     }
 }

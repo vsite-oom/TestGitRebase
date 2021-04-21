@@ -10,6 +10,7 @@ namespace TestGitRebase
         public void Message()
         {
             Console.WriteLine("I am Ante Zunic calss");
+            Console.WriteLine("this is the end of TestGitRebase");
         }
     }
 }

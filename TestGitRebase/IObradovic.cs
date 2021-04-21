@@ -9,7 +9,8 @@ namespace TestGitRebase
     { 
         public void Message()
         {
-          Console.WriteLine("I am IObradovic class");
+            Console.WriteLine("I am IObradovic class");
+            Console.WriteLine("This is end of TestGitRebase");
         }
     }
 }

@@ -10,6 +10,7 @@ namespace TestGitRebase
         public void Message()
         {
             Console.WriteLine("I am JHusic class");
+            Console.WriteLine("This is the end of TestGitRebase");
         }
     }
 }

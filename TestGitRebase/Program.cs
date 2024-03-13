@@ -11,6 +11,7 @@
             // Benjamin Gajski
 
             // Josip Grabušić
+            Console.WriteLine("My name is Josip Grabušić");
 
             // Petar Huljek
             Console.WriteLine("My name is Petar");

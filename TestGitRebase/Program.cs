@@ -26,6 +26,7 @@
             // Filip Leš
 
             // Antonio Maletić
+            Console.WriteLine("My name is Antonio");
 
             // Kristian Mesić
             Console.WriteLine("My name is Kristian Mesic");

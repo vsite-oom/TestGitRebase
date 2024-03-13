@@ -34,6 +34,8 @@
             // Sonja Perković
             Console.WriteLine("My name is Sonja Perković");
             // Đuro Rukavina
+            Console.WriteLine("My name is Đuro");
+
 
             // Ivan Šelendić
 

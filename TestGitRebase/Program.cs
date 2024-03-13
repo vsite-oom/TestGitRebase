@@ -9,7 +9,7 @@
             // Mislav Ćavarušić
 
             // Benjamin Gajski
-
+            Console.WriteLine("My name is Benjamin");
             // Josip Grabušić
             Console.WriteLine("My name is Josip Grabušić");
 

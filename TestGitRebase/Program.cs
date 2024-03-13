@@ -31,7 +31,7 @@
             // Marko Pavić
 
             // Sonja Perković
-
+            Console.WriteLine("My name is Sonja Perković");
             // Đuro Rukavina
 
             // Ivan Šelendić

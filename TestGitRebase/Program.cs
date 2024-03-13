@@ -38,7 +38,7 @@
             // Šime Šprljan
 
             // Julijan Šribar
-
+            Console.WriteLine("My name is Julijan");
             // Adrian Stančer
 
             // Vlado Tonković

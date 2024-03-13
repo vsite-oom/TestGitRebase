@@ -13,6 +13,7 @@
             // Josip Grabušić
 
             // Petar Huljek
+            Console.WriteLine("My name is Petar");
 
             // Hrvoje Janđel
 

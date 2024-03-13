@@ -32,6 +32,7 @@
             Console.WriteLine("My name is Kristian Mesic");
 
             // Marko Pavić
+            Console.WriteLine("My name is Marko");
 
             // Sonja Perković
             Console.WriteLine("My name is Sonja Perković");

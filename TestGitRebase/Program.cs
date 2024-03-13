@@ -17,6 +17,7 @@
             Console.WriteLine("My name is Petar");
 
             // Hrvoje Janđel
+            Console.WriteLine("My name is Hrvoje");
 
             // Mario Knežević
 

@@ -40,6 +40,7 @@
 
 
             // Ivan Šelendić
+            Console.WriteLine("My name is Ivan");
 
             // Šime Šprljan
 

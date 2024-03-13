@@ -43,7 +43,7 @@
             // Vlado Tonković
 
             // nastavnik
-
+            Console.WriteLine("My name is Nastavnik");
         }
     }
 }

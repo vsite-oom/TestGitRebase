@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             // Kristian Bolarić
-
+            Console.WriteLine("my name is kristian.");
             // Mislav Ćavarušić
 
             // Benjamin Gajski

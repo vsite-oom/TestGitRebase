@@ -56,6 +56,7 @@
             // Đuro Rukavina
             Console.WriteLine("My name is Đuro");
             Console.WriteLine("My favourite color is blue");
+            Console.WriteLine("My favourite movie is Inside Man");
 
             // Ivan Šelendić
             Console.WriteLine("My name is Ivan");

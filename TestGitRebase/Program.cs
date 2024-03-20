@@ -66,7 +66,7 @@
 
             // Julijan Šribar
             Console.WriteLine("My name is Julijan");
-
+            Console.WriteLine("My favourite color is cyan");
             // Adrian Stančer
 
             // Vlado Tonković

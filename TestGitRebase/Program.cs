@@ -20,7 +20,7 @@
             Console.WriteLine("Moja omiljena boja je \"bijela\".");
             Console.WriteLine("My favorite movie is \"27 dresses\" " +
                 "and it shares first place with \"My Little Pony: The Movie\". " +
-                "FIrendship is MAGIC.");
+                "Friendship is MAGIC.");
 
             // Hrvoje Janđel
             Console.WriteLine("My name is Hrvoje");

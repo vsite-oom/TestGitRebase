@@ -37,6 +37,7 @@
 
             // Antonio Maletić
             Console.WriteLine("My name is Antonio");
+            Console.WriteLine("My favorite color is white");
 
             // Kristian Mesić
             Console.WriteLine("My name is Kristian Mesic");

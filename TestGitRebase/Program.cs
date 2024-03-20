@@ -36,6 +36,7 @@
             // Sonja Perković
             Console.WriteLine("My name is Sonja Perković");
             Console.WriteLine("My favourite color is black, even though it is not considered a color.");
+            Console.WriteLine("My favourite movie is \"Barbie\".");
 
             // Đuro Rukavina
             Console.WriteLine("My name is Đuro");

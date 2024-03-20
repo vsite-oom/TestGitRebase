@@ -6,15 +6,19 @@
         {
             // Kristian Bolarić
             Console.WriteLine("my name is kristian.");
+
             // Mislav Ćavarušić
 
             // Benjamin Gajski
             Console.WriteLine("My name is Benjamin");
+
             // Josip Grabušić
             Console.WriteLine("My name is Josip Grabušić");
 
             // Petar Huljek
             Console.WriteLine("My name is Petar");
+            Console.WriteLine("Moja omiljena boja je \"bijela\".");
+
 
             // Hrvoje Janđel
             Console.WriteLine("My name is Hrvoje");
@@ -23,6 +27,7 @@
 
             // Mihael Krpes
             Console.WriteLine("My name is Mihael");
+
             // Filip Leš
 
             // Antonio Maletić
@@ -41,7 +46,6 @@
             // Đuro Rukavina
             Console.WriteLine("My name is Đuro");
 
-
             // Ivan Šelendić
             Console.WriteLine("My name is Ivan");
 
@@ -49,6 +53,7 @@
 
             // Julijan Šribar
             Console.WriteLine("My name is Julijan");
+
             // Adrian Stančer
 
             // Vlado Tonković

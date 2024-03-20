@@ -18,7 +18,7 @@
 
             // Hrvoje Janđel
             Console.WriteLine("My name is Hrvoje");
-
+            Console.WriteLine("My favorite color is black");
             // Mario Knežević
 
             // Mihael Krpes

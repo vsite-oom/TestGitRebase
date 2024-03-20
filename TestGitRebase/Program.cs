@@ -14,6 +14,7 @@
 
             // Josip Grabušić
             Console.WriteLine("My name is Josip Grabušić");
+            Console.WriteLine("My favourite colour is green");
 
             // Petar Huljek
             Console.WriteLine("My name is Petar");

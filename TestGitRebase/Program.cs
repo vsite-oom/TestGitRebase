@@ -15,6 +15,7 @@
             // Josip Grabušić
             Console.WriteLine("My name is Josip Grabušić");
             Console.WriteLine("My favourite colour is green");
+            Console.WriteLine("My favourite movie is The Crow");
 
             // Petar Huljek
             Console.WriteLine("My name is Petar");

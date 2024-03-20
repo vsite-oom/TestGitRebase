@@ -42,6 +42,7 @@ namespace TestGitRebase
             // Mihael Krpes
             Console.WriteLine("My name is Mihael");
             Console.WriteLine("My favourite colour is yellow");
+            Console.WriteLine("My favourite movie is Interstellar");
             // Filip Leš
             Console.WriteLine("My name is Filip");
             Console.WriteLine("My favorite color is red");

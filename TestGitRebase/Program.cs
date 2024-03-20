@@ -6,7 +6,7 @@
         {
             // Kristian Bolarić
             Console.WriteLine("my name is kristian.");
-
+            Console.WriteLine("My favorite color is orange.");
             // Mislav Ćavarušić
 
             // Benjamin Gajski

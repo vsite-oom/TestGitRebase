@@ -35,6 +35,7 @@
 
             // Filip Leš
             Console.WriteLine("My name is Filip");
+            Console.WriteLine("My favorite color is red");
 
             // Antonio Maletić
             Console.WriteLine("My name is Antonio");

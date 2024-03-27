@@ -73,8 +73,9 @@
             // Julijan Šribar
             Console.WriteLine("My name is Julijan");
             Console.WriteLine("My favourite color is cyan");
-            Console.WriteLine("My faorite movie is Casablanca");
-            Console.WriteLine("My favorite car is Toyota");
+            Console.WriteLine("My favourite movie is Casablanca");
+            Console.WriteLine("My favourite car is Toyota");
+            Console.WriteLine("My favourite food is ćevapi");
             // Adrian Stančer
 
             // Vlado Tonković

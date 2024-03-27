@@ -14,6 +14,7 @@
             Console.WriteLine("My name is Benjamin");
             Console.WriteLine("My favourite colour is dark_blue");
             Console.WriteLine("My favourite movie is Blade Runner");
+            Console.WriteLine("My favourite food is warm cheese");
             // Josip Grabušić
             Console.WriteLine("My name is Josip Grabušić");
             Console.WriteLine("My favourite colour is green");

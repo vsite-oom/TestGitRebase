@@ -1,4 +1,6 @@
-﻿namespace TestGitRebase
+﻿using Microsoft.VisualBasic;
+
+namespace TestGitRebase
 {
     internal class Program
     {
@@ -53,7 +55,8 @@
             Console.WriteLine("My name is Kristian Mesic");
 
             // Marko Pavić
-
+            Console.WriteLine("My name is Marko Pavić");
+            Console.WriteLine("My favourite color is purple");
             // Sonja Perković
             Console.WriteLine("My name is Sonja Perković");
             Console.WriteLine("My favourite color is black, even though it is not considered a color.");

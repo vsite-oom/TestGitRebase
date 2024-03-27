@@ -74,6 +74,7 @@
             Console.WriteLine("My name is Julijan");
             Console.WriteLine("My favourite color is cyan");
             Console.WriteLine("My faorite movie is Casablanca");
+            Console.WriteLine("My favorite car is Toyota");
             // Adrian Stančer
 
             // Vlado Tonković

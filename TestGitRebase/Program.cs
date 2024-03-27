@@ -46,6 +46,7 @@
             // Kristian Mesić
             Console.WriteLine("My name is Kristian Mesic");
             Console.WriteLine("My favourite color is blue");
+            Console.WriteLine("My favorite movie is The Lord of the Rings");
 
             // Marko Pavić
 

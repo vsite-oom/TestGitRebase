@@ -58,6 +58,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Marko Pavić");
             Console.WriteLine("My favourite color is purple");
             Console.WriteLine("My favourite movie is Interstellar");
+            Console.WriteLine("My favourite food is pizza");
             // Sonja Perković
             Console.WriteLine("My name is Sonja Perković");
             Console.WriteLine("My favourite color is black, even though it is not considered a color.");

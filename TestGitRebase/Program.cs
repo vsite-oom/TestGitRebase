@@ -63,7 +63,10 @@
             Console.WriteLine("My name is Ivan");
 
             // Šime Šprljan
-
+            Console.WriteLine("My name is Šime Šprljan");
+            Console.WriteLine("My favorite color is red");
+            Console.WriteLine("My favorite movie is john wick");
+            Console.WriteLine("My favorite food is hamburger");
             // Julijan Šribar
             Console.WriteLine("My name is Julijan");
             Console.WriteLine("My favourite color is cyan");

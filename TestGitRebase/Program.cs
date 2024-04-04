@@ -20,11 +20,12 @@
             Console.WriteLine("My favourite movie is The Crow");
 
             // Petar Huljek
-            Console.WriteLine("My name is Petar");
-            Console.WriteLine("Moja omiljena boja je \"bijela\".");
+            Console.WriteLine("My name is Petar.");
+            Console.WriteLine("My favorite color is \"white\".");
             Console.WriteLine("My favorite movie is \"27 dresses\" " +
                 "and it shares first place with \"My Little Pony: The Movie\". " +
                 "Friendship is MAGIC.");
+            Console.WriteLine("My favorite food is Pad Thai.");
 
             // Hrvoje Janđel
             Console.WriteLine("My name is Hrvoje");

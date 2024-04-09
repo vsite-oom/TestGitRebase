@@ -8,7 +8,6 @@
             Console.WriteLine("my name is kristian.");
             Console.WriteLine("My favorite color is orange.");
             Console.WriteLine("My favorite movie is Oppenheimer");
-            Console.WriteLine("My favorite car is renault twizy");
             Console.WriteLine("My favorite food is black widow spider");
             // Mislav Ćavarušić
 

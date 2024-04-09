@@ -20,6 +20,7 @@
             Console.WriteLine("My name is Josip Grabušić");
             Console.WriteLine("My favourite colour is green");
             Console.WriteLine("My favourite movie is The Crow");
+            Console.WriteLine("My favourite food is pizza");
 
             // Petar Huljek
             Console.WriteLine("My name is Petar.");

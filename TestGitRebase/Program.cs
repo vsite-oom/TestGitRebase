@@ -87,6 +87,12 @@ namespace TestGitRebase
 
             // nastavnik
             Console.WriteLine("My name is Nastavnik");
+            Nastavnik();
+        }
+
+        private static void Nastavnik()
+        {
+            Console.WriteLine("This is method Nastavnik");
         }
     }
 }

@@ -54,6 +54,11 @@ namespace TestGitRebase
 
             // Kristian Mesić
             Console.WriteLine("My name is Kristian Mesic");
+            Console.WriteLine("My favorite color is blue");
+            Console.WriteLine("My favorite movie is Lord of the Rings");
+            Console.WriteLine("My favourite car is Audi");
+            Console.WriteLine("My favorite food is janjet'na");
+            Nastavnik();
 
             // Marko Pavić
             Console.WriteLine("My name is Marko Pavić");
@@ -93,7 +98,7 @@ namespace TestGitRebase
 
         private static void Nastavnik()
         {
-            Console.WriteLine("This is method Nastavnik");
+            Console.WriteLine("This is method KMesic");
         }
 
         private static void Nastavnik()

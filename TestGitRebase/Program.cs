@@ -87,6 +87,7 @@ namespace TestGitRebase
             Console.WriteLine("My favourite movie is Casablanca");
             Console.WriteLine("My favourite car is Toyota");
             Console.WriteLine("My favourite food is ćevapi");
+            Nastavnik();
             // Adrian Stančer
 
             // Vlado Tonković
@@ -96,14 +97,12 @@ namespace TestGitRebase
             Nastavnik();
         }
 
-        private static void Nastavnik()
-        {
-            Console.WriteLine("This is method KMesic");
-        }
 
         private static void Nastavnik()
         {
+            Console.WriteLine("This is method KMesic");
             Console.WriteLine("This is method JGrabus");
+            Console.WriteLine("This is method JSribar");
         }
     }
 }

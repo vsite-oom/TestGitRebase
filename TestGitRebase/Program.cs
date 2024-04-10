@@ -98,7 +98,6 @@ namespace TestGitRebase
             Nastavnik();
         }
 
-
         private static void Nastavnik()
         {
             Console.WriteLine("This is method KMesic");

@@ -18,6 +18,7 @@ namespace TestGitRebase
             Console.WriteLine("My favourite colour is dark_blue");
             Console.WriteLine("My favourite movie is Blade Runner");
             Console.WriteLine("My favourite food is warm cheese");
+            Nastavnik();
             // Josip Grabušić
             Console.WriteLine("My name is Josip Grabušić");
             Console.WriteLine("My favourite colour is green");
@@ -104,6 +105,7 @@ namespace TestGitRebase
             Console.WriteLine("This is method JGrabus");
             Console.WriteLine("This is method SPerkovic");
             Console.WriteLine("This is method PHuljek#1");
+            Console.WriteLine("This is method Bgajski");
         }
     }
 }

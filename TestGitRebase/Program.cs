@@ -104,6 +104,7 @@ namespace TestGitRebase
             Console.WriteLine("This is method KMesic");
             Console.WriteLine("This is method JGrabus");
             Console.WriteLine("This is method SPerkovic");
+            Console.WriteLine("This is method PHuljek#1");
         }
     }
 }

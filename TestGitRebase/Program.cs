@@ -103,11 +103,6 @@ namespace TestGitRebase
         {
             Console.WriteLine("This is method KMesic");
             Console.WriteLine("This is method JGrabus");
-            Console.WriteLine("This is method JSribar");
-        }
-
-        private static void Nastavnik()
-        {
             Console.WriteLine("This is method SPerkovic");
         }
     }

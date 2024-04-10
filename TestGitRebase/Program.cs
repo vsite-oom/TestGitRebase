@@ -43,6 +43,8 @@ namespace TestGitRebase
             Console.WriteLine("My name is Mihael");
             Console.WriteLine("My favourite colour is yellow");
             Console.WriteLine("My favourite movie is Interstellar");
+            Nastavnik();
+
             // Filip Leš
             Console.WriteLine("My name is Filip");
             Console.WriteLine("My favorite color is red");
@@ -61,7 +63,6 @@ namespace TestGitRebase
             Console.WriteLine("My favorite movie is Lord of the Rings");
             Console.WriteLine("My favourite car is Audi");
             Console.WriteLine("My favorite food is janjet'na");
-            Nastavnik();
 
             // Marko Pavić
             Console.WriteLine("My name is Marko Pavić");
@@ -109,6 +110,9 @@ namespace TestGitRebase
             Console.WriteLine("This is method PHuljek#1");
             Console.WriteLine("This is method Bgajski");
             Console.WriteLine("This is method Amaletic");
+            Console.WriteLine("This is method MKrpes");
         }
+
+
     }
 }

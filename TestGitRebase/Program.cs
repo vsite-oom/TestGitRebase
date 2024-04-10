@@ -112,7 +112,5 @@ namespace TestGitRebase
             Console.WriteLine("This is method Amaletic");
             Console.WriteLine("This is method MKrpes");
         }
-
-
     }
 }

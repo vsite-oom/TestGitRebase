@@ -70,6 +70,7 @@ namespace TestGitRebase
             Console.WriteLine("My favourite color is black, even though it is not considered a color.");
             Console.WriteLine("My favourite movie is \"Barbie\".");
             Console.WriteLine("My favourite food is Steak.");
+            Nastavnik();
 
             // Đuro Rukavina
             Console.WriteLine("My name is Đuro");
@@ -103,6 +104,11 @@ namespace TestGitRebase
             Console.WriteLine("This is method KMesic");
             Console.WriteLine("This is method JGrabus");
             Console.WriteLine("This is method JSribar");
+        }
+
+        private static void Nastavnik()
+        {
+            Console.WriteLine("This is method SPerkovic");
         }
     }
 }

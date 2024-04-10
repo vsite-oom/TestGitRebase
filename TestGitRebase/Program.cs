@@ -23,6 +23,7 @@ namespace TestGitRebase
             Console.WriteLine("My favourite colour is green");
             Console.WriteLine("My favourite movie is The Crow");
             Console.WriteLine("My favourite food is pizza");
+            JGrabus();
 
             // Petar Huljek
             Console.WriteLine("My name is Petar.");
@@ -93,6 +94,11 @@ namespace TestGitRebase
         private static void Nastavnik()
         {
             Console.WriteLine("This is method Nastavnik");
+        }
+
+        private static void JGrabus()
+        {
+            Console.WriteLine("This is method JGrabus");
         }
     }
 }

@@ -46,6 +46,7 @@ namespace TestGitRebase
             Console.WriteLine("My name is Filip");
             Console.WriteLine("My favorite color is red");
             Console.WriteLine("My favorite movie is A Fistful of Dollars");
+            Console.WriteLine("My favorite food is beef goulash with gnocchi");
 
             // Antonio Maletić
             Console.WriteLine("My name is Antonio");
